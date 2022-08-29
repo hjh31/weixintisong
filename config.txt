@@ -1,0 +1,23 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx16ccfdb57f62dbc7",
+# 公众号appSecret
+"app_secret": "a4cd11c89a3a422de7bf668cae0ec6ee",
+# 模板消息id
+"template_id": "MRH2-xDRQxVoENvz5T1RnVI2Did1OuQXGGrmSVvXMK8",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o1a0m6IovPRixvUiay3n2LweG9eg","o1a0m6FZ9Ce5OJuaPZRx-pJEw9Hg"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "b3b810639d1549d6af81d6ee8c4534be",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "北京市",
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2017-03-03",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
